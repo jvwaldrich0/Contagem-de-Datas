@@ -39,7 +39,7 @@ def Calculate(syear, smonth, sday):
                     month = 1
                     year += 1
     except ValueError:
-        print('Deu merda')
+        print('Houve um problema\n')
     else:
         final_day = date(year, month, day)
         eday = int(final_day.day)
