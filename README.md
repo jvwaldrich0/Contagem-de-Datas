@@ -1,2 +1,2 @@
-# Counting_dates
- Just a little script for counting dates
+# Contagem de Datas
+Lista de datas
